@@ -21,12 +21,13 @@
   "bugs": {
     "url": "https://github.com/TheBrainFamily/cypress-cucumber-example/issues"
   },
-  "homepage": "https://github.com/TheBrainFamily/cypress-cucumber-example#readme",
   "dependencies": {
-    "cypress": "^4.9.0",
-    "cypress-cucumber-preprocessor": "^2.5.0"
+    "cypress": "^9.7.0"
   },
   "cypress-cucumber-preprocessor": {
     "nonGlobalStepDefinitions": true
+  },
+  "devDependencies": {
+    "cypress-cucumber-preprocessor": "^4.3.1"
   }
 }
