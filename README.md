@@ -8,7 +8,7 @@ npm install
 npm test
 
 Run single feature
-npx cypress run --spec "cypress/integration/1_BNewChart.feature" --no-exit --headed
+npx cypress run --spec "cypress/integration/1_LogIn.feature" --no-exit --headed
 
 Open Cypress interface and click on feature to run
 npx cypress open
